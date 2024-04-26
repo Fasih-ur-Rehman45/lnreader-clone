@@ -1,5 +1,5 @@
 export const defaultUserAgentString =
-  'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36';
+  'Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.54 Mobile Safari/537.36 EdgA/123.0.2420.102';
 
 interface FetchParams {
   url: string; // URL of request
